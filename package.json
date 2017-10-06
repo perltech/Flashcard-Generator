@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator.js",
+  "version": "1.0.0",
+  "description": "Simple Command Line Flashcard Simulator",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perltech/Flashcard-Generator.git"
+  },
+  "author": "Noah Perlmutter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perltech/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/perltech/Flashcard-Generator#readme",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
